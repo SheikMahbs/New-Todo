@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "task_name": "We have Added the Task Object"
+    },
+    {
+      "id": 2,
+      "task_name": "We have created the List"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
